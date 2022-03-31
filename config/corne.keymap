@@ -9,8 +9,6 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/ext_power.h>
 
-&left_encoder { resolution = <2>; };
-
 / {
         keymap {
                 compatible = "zmk,keymap";
