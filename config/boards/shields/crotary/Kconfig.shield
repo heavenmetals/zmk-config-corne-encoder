@@ -1,5 +1,0 @@
-config SHIELD_CROTARY_LEFT
-    def_bool $(shields_list_contains,crotary_left)
-
-config SHIELD_CROTARY_RIGHT
-    def_bool $(shields_list_contains,crotary_right)
