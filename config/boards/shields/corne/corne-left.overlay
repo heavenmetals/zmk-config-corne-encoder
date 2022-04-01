@@ -1,3 +1,4 @@
+
 #include "corne.dtsi" // Notice that the main dtsi files are included in the overlay.
 
 &kscan0 {
